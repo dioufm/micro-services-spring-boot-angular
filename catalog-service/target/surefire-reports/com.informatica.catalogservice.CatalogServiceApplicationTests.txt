@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.informatica.catalogservice.CatalogServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.663 s -- in com.informatica.catalogservice.CatalogServiceApplicationTests

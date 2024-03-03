@@ -20,7 +20,7 @@
 	<modules>
 		<module>user-service</module>
 		<module>catalog-service</module>
-		<module>front</module>
+		<module>frontend</module>
 	</modules>
 
 </project>
